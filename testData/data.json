@@ -1,0 +1,25 @@
+{
+    "GPS": {
+        "latitude": 48.8566,
+        "longitude": 2.3522,
+        "altitude": 300.0,
+        "speed": 15.0,
+        "heading": 120.0,
+        "timestamp": "2024-08-15T10:30:00Z",
+        "hdop": 0.8,
+        "vdop": 1.2,
+        "satellites": 12,
+        "fix_status": 3      
+    },
+    "speed": 90,
+    "Acclmtr": {
+        "AccX": 0.03,
+        "AccY": -0.01,
+        "AccZ": 0.98
+    },
+    "Gyroscp": {
+        "GyroX": 0.02,
+        "GyroY": -0.15,
+        "GyroZ": 0.05
+    }
+}
